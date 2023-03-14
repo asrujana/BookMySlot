@@ -1,2 +1,3 @@
-# BookMySlot
-[a link](http://bookmyslot.infinityfreeapp.com/)
+# Book My Slot
+Here is the link of the website
+[BooKMySlot](http://bookmyslot.infinityfreeapp.com/)
