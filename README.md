@@ -1,6 +1,6 @@
 # Book My Slot
-##About Project:
+## About Project:
 A meeting room booking system is software that allows people and employees to book meeting rooms and track their use. This type of booking system is often used by businesses, schools, and other organizations and in flexible workspaces.
 
-#Here is the link of the website
-[BooKMySlot](http://bookmyslot.infinityfreeapp.com/)
+## Here is the link of the website
+# [BooKMySlot](http://bookmyslot.infinityfreeapp.com/)
