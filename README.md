@@ -7,6 +7,5 @@ A meeting room booking system is software that allows people and employees to bo
 * CSS
 * PHP
 * SQL
-Wampserver
 ## Here is the link of the website
 # [BooKMySlot](http://bookmyslot.infinityfreeapp.com/)
